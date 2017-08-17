@@ -1,0 +1,27 @@
+<DataTable Name="HC_FinaCCSQ_Travel">
+    <Row>
+        <TravelBasicID>
+        </TravelBasicID>
+        <Guid>
+        </Guid>
+        <ProcInstID>
+        </ProcInstID>
+        <ProjectName>1101-项目源和初筛</ProjectName>
+        <ProjectCode>1101-10000000</ProjectCode>
+        <Orders></Orders>
+        <StartAddr>阿坝</StartAddr>
+        <EndAddrType>内地(其他城市)</EndAddrType>
+        <EndAddrTypeCode>NDQT</EndAddrTypeCode>
+        <EndAddr>阿克苏</EndAddr>
+        <StartDate>2017-07-26</StartDate>
+        <EndDate>2017-07-27</EndDate>
+        <Transportation>飞机</Transportation>
+        <!-- MU1234       --><FlightOrTrain>
+        </FlightOrTrain>
+        <Seat>经济舱</Seat>
+        <Des></Des>
+    </Row>
+</DataTable>
+
+
+<Dataset><DataTable Name="HC_FinaCCSQ_Basic"><Row><ProcInstID></ProcInstID><Guid></Guid><Folio></Folio><ApplyUserName>ot赵敏</ApplyUserName><ApplyUserCode>honycapital\otzhaomin</ApplyUserCode><DepartmentName>信息管理部</DepartmentName><DepartmentCode>7C9FB216-0812-4511-801C-6719C56AB15D</DepartmentCode><Ext4></Ext4><Ext5></Ext5><AssociateName></AssociateName><AssociateCode></AssociateCode><TravelReason>云平台</TravelReason><TraveType>1</TraveType><PersonDivision>指导王科完成交接</PersonDivision><Schedual></Schedual><MainTask></MainTask><RelevantDepartment></RelevantDepartment><RelevantDepartmentCode></RelevantDepartmentCode><HotalReservation></HotalReservation><CarReservation></CarReservation><OtherDes></OtherDes><CompanyName>北京弘毅远方投资顾问有限公司</CompanyName><CompanyCode>1201</CompanyCode><ProjectCode>999</ProjectCode><ProjectName>999公共</ProjectName><TravelNature>1</TravelNature><WFStatus></WFStatus><IsPay></IsPay></Row></DataTable><DataTable Name="HC_FinaCCSQ_Travel"><Row><TravelBasicID></TravelBasicID><Guid></Guid><ProcInstID></ProcInstID><ProjectName>999公共</ProjectName><ProjectCode>999</ProjectCode><Orders>0</Orders><StartAddr>北京</StartAddr><EndAddrType>内地(其他城市)</EndAddrType><EndAddrTypeCode>NDQT</EndAddrTypeCode><EndAddr>成都</EndAddr><StartDate>2017-07-26</StartDate><EndDate>2017-07-31</EndDate><Transportation>飞机</Transportation><Seat>经济舱</Seat><Des></Des></Row></DataTable> <DataTable Name="HC_FinaCCSQ_EmpInfos"><Row><Guid></Guid><ProcInstID></ProcInstID><TravelBasicID></TravelBasicID><EmpName>ot赵敏</EmpName><EmpCode>honycapital\otzhaomin</EmpCode><ProjectName>999公共</ProjectName><ProjectCode>999</ProjectCode><IsPay></IsPay></Row></DataTable></Dataset>
